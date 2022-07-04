@@ -8,6 +8,7 @@
     "server": "nodemon backend/server.js"
 
   },
+  
   "author": "Shiran Ridel",
   "license": "MIT",
   "dependencies": {
