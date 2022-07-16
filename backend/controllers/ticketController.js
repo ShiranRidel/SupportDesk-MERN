@@ -149,6 +149,7 @@ const updateTicket = asyncHandler(async (req, res) => {
   res.status(200).json(updatedTicket);
 });
 
+
 module.exports = {
   getTickets,
   createTickets,
